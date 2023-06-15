@@ -19,3 +19,5 @@ The expected run time of the final CNN model in both google colab and windows 10
 
 Step wise instruction at appropriate locations are given in the scripts of the CNN regression models itself.
 The dataset and code are arranged in a systematic order inside the code.zip file for user convenience. 
+
+To run the codes, all the required input files (both validation input and output), weight parameters (fine_tune_*.hdf5), Sample.hdf5 file, and model script should be placed in the same folder.
