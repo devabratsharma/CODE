@@ -21,3 +21,7 @@ Step wise instruction at appropriate locations are given in the scripts of the C
 The dataset and code are arranged in a systematic order inside the code.zip file for user convenience. 
 
 To run the codes, all the required input files (both validation input and output), weight parameters (fine_tune_*.hdf5), Sample.hdf5 file, and model script should be placed in the same folder.
+
+# Note
+
+The code.zip file can be downloaded by clicking on "View raw".
